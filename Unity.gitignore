@@ -69,3 +69,5 @@ Library/
 Library\
 Library/*
 Library\*
+
+/.dylib
