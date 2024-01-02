@@ -67,3 +67,5 @@ Library/PackageCache/com.unity.burst@1.8.11/.Runtime/libburst-llvm-15.dylib
 
 Library/
 Library\
+Library/*
+Library\*
